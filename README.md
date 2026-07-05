@@ -53,4 +53,4 @@ Git/GitHub — version control and portfolio hosting
 
 Author
 
-Harsh — BTech Computer Science student, actively building a Data/Business Analyst and Product Management portfolio.
+Harsh — BTech Computer Science student.
