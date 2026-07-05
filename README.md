@@ -35,7 +35,7 @@ Key Findings
 Network Error + Timeout account for ~38% of failures - the largest controllable share, pointing to infrastructure as the top fix priority
 Retention drops from 91.56% (January cohort) to 50.33% (June cohort) - signals a need for stronger new-user onboarding
 Only 1.2% of users are "High Value" (RFM segmentation), yet they likely drive disproportionate transaction value - a strong case for a targeted loyalty program
-Tier 3 cities have the highest average transaction value despite the lowest volume — an underleveraged growth opportunity
+Tier 3 cities have the highest average transaction value despite the lowest volume  an underleveraged growth opportunity
 
 
 Full analysis with business recommendations: 5_insights_summary/insights_summary.md
@@ -54,4 +54,4 @@ Git/GitHub - version control and portfolio hosting
 
 Author
 
-Harsh — BTech Computer Science student.
+Harsh - BTech Computer Science student.
